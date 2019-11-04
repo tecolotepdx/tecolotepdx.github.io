@@ -1,53 +1,53 @@
 {
-    "feed": {
-        "items": {
-            "item": [
-                {
-                    "uid": "STR-029",
-                    "description": "Peas, Beans, Zucchini",
-                    "name": "Store 29 - Freshmax Australia",
-                    "email": "test@email.com",
-                    "phone": "+61 411 123 456",
-                    "url": "http://www.melbournemarkets.com.au/",
-                    "custom_1": "Freshmax Australia"
-                },
-                {
-                    "uid": "STR-031",
-                    "description": "Carrots, Pumpkin",
-                    "name": "Store 31 - Freshmax Australia",
-                    "email": "test@email.com",
-                    "phone": "+61 411 123 456",
-                    "url": "http://www.melbournemarkets.com.au/",
-                    "custom_1": "Freshmax Australia"
-                },
-                {
-                    "uid": "STR-033",
-                    "description": "Blueberries, Blackberries",
-                    "name": "Store 33 - Produce Time",
-                    "email": "test@email.com",
-                    "phone": "+61 411 123 456",
-                    "url": "http://www.melbournemarkets.com.au/",
-                    "custom_1": "Produce Time"
-                },
-                {
-                    "uid": "STR-035",
-                    "description": "Melon, Banannas",
-                    "name": "Store 35 - Louis Melbourne",
-                    "email": "test@email.com",
-                    "phone": "+61 411 123 456",
-                    "url": "http://www.melbournemarkets.com.au/",
-                    "custom_1": "Louis Melbourne"
-                },
-                {
-                    "uid": "STR-037",
-                    "description": "Onion",
-                    "name": "Store 37 - Emblem Tower",
-                    "email": "test@email.com",
-                    "phone": "+61 411 123 456",
-                    "url": "http://www.melbournemarkets.com.au/",
-                    "custom_1": "Emblem Time"
-                }
-               ]
-          }
-     }
+  "feed": {
+    "items": {
+      "item": [
+        {
+          "uid": "STR-029",
+          "description": "Peas, Beans, Zucchini",
+          "name": "Store 29 - Freshmax Australia",
+          "email": "test@email.com",
+          "phone": "+61 411 123 456",
+          "url": "http://www.melbournemarkets.com.au/",
+          "custom_1": "Freshmax Australia"
+        },
+        {
+          "uid": "STR-031",
+          "description": "Carrots, Pumpkin",
+          "name": "Store 31 - Freshmax Australia",
+          "email": "test@email.com",
+          "phone": "+61 411 123 456",
+          "url": "http://www.melbournemarkets.com.au/",
+          "custom_1": "Freshmax Australia"
+        },
+        {
+          "uid": "STR-033",
+          "description": "Blueberries, Blackberries",
+          "name": "Store 33 - Produce Time",
+          "email": "test@email.com",
+          "phone": "+61 411 123 456",
+          "url": "http://www.melbournemarkets.com.au/",
+          "custom_1": "Produce Time"
+        },
+        {
+          "uid": "STR-035",
+          "description": "Melon, Banannas",
+          "name": "Store 35 - Louis Melbourne",
+          "email": "test@email.com",
+          "phone": "+61 411 123 456",
+          "url": "http://www.melbournemarkets.com.au/",
+          "custom_1": "Louis Melbourne"
+        },
+        {
+          "uid": "STR-037",
+          "description": "Onion",
+          "name": "Store 37 - Emblem Tower",
+          "email": "test@email.com",
+          "phone": "+61 411 123 456",
+          "url": "http://www.melbournemarkets.com.au/",
+          "custom_1": "Emblem Time"
+        }
+      ]
+    }
+  }
 }
